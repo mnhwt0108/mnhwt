@@ -2,3 +2,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnhwt0108&theme=tokyonight&layout=&langs_count=5">
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnhwt0108)](https://git.io/streak-stats)
