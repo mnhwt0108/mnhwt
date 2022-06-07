@@ -3,6 +3,6 @@
 
 My name is Minh Nhut and I'm studying Computer Science at IU-VNU class of 2024. I'm from Vietnam and my goal is to become a software engineer.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnhwt0108&theme=tokyonight)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnhwt0108&theme=tokyonight)](https://git.io/streak-stats)
+
