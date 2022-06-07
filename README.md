@@ -4,6 +4,20 @@
 
 My name is Minh Nhut and I'm studying Computer Science at IU-VNU class of 2024. I'm from Vietnam and my goal is to become a software engineer.
 
+### 🔨 Languages & Frameworks
+
+#### Databases:
+![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+#### Web Design & Development:
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=flat-square&logo=react&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+
 
 ## 📈 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnhwt0108&theme=tokyonight)](https://git.io/streak-stats)
