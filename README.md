@@ -3,6 +3,8 @@
 
 👩‍💻 My name is Minh Nhut and I'm studying 🖥️Computer Science at IU-VNU class of 2024. I'm from Vietnam and my goal is to become a software engineer.
 
+<img align="right" height="200" src="https://64.media.tumblr.com/6fa4b2f5f196082f324f90fbcdc87b9e/tumblr_osiu7yDpKb1shdhdjo1_540.gifv">
+
 ## 📱 Contacts
 <a href=https://www.facebook.com/mnnhwt/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a> <a href=https://www.instagram.com/m.nhwt/> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
