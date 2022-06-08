@@ -17,11 +17,9 @@ My name is Minh Nhut and I'm studying Computer Science at IU-VNU class of 2024. 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-
-
 ## 📈 Github Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true"> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mnhwt0108&theme=tokyonight&date_format=j%20M%5B%20Y%5D> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true"> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mnhwt0108&theme=tokyonight&date_format=j%20M%5B%20Y%5D"> |
 | ------------- | ------------- |
 
 
