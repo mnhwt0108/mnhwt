@@ -23,6 +23,8 @@ My name is Minh Nhut and I'm studying Computer Science at IU-VNU class of 2024. 
 | ------------- | ------------- |
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnhwt0108&theme=tokyonight&layout=compact&langs_count=6"> |
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnhwt0108&theme=tokyonight&layout=compact&langs_count=6">
+</div>
 
 
