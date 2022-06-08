@@ -29,7 +29,7 @@
 
 
 ## 📈 Github Stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true" width="300"> &nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mnhwt0108&theme=tokyonight&date_format=j%20M%5B%20Y%5D" width="300">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true" width="450"> &nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mnhwt0108&theme=tokyonight&date_format=j%20M%5B%20Y%5D" width="450">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnhwt0108&theme=tokyonight&layout=compact&langs_count=6">
 
