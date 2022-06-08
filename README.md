@@ -29,8 +29,8 @@
 
 
 ## 📈 Github Stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true" width="400"> &nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mnhwt0108&theme=tokyonight&date_format=j%20M%5B%20Y%5D" width="400">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="400"> &nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mnhwt0108&theme=tokyonight&date_format=j%20M%5B%20Y%5D&hide_border=true" width="400">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnhwt0108&theme=tokyonight&layout=compact&langs_count=6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnhwt0108&theme=tokyonight&layout=compact&langs_count=6&hide_border=true">
 
 
