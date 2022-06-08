@@ -4,6 +4,9 @@
 
 My name is Minh Nhut and I'm studying Computer Science at IU-VNU class of 2024. I'm from Vietnam and my goal is to become a software engineer.
 
+### 📱 Contacts
+<a href=https://www.facebook.com/mnnhwt/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a> <a href=https://www.instagram.com/m.nhwt/> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
 ### 🔨 Languages & Frameworks
 
 #### Databases:
@@ -17,13 +20,15 @@ My name is Minh Nhut and I'm studying Computer Science at IU-VNU class of 2024. 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+#### Other:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 ## 📈 Github Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true"> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mnhwt0108&theme=tokyonight&date_format=j%20M%5B%20Y%5D"> |
-| ------------- | ------------- |
-
-
 <div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mnhwt0108&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnhwt0108&theme=tokyonight&layout=compact&langs_count=6">
 </div>
 
