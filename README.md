@@ -7,7 +7,7 @@ My name is Minh Nhut and I'm studying Computer Science at IU-VNU class of 2024. 
 ### 🔨 Languages & Frameworks
 
 #### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Web Design & Development:
