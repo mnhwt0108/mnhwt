@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=mnhwt0108&color=blue">
 
 
-My name is Minh Nhut and I'm studying Computer Science at IU-VNU class of 2024. I'm from Vietnam and my goal is to become a software engineer.
+👩‍💻 My name is Minh Nhut and I'm studying 🖥️Computer Science at IU-VNU class of 2024. I'm from Vietnam and my goal is to become a software engineer.
 
 ### 📱 Contacts
 <a href=https://www.facebook.com/mnnhwt/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a> <a href=https://www.instagram.com/m.nhwt/> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
