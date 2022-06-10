@@ -22,7 +22,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true&hide_border=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnhwt0108&theme=tokyonight&layout=compact&langs_count=6&hide_border=true">
   
-  ![snake gif](https://github.com/mnhwt0108/mnhwt0108/blob/output/github-contribution-grid-snake.svg)
   </div>
   <!---
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
