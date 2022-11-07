@@ -1,5 +1,5 @@
 # Hi, I’m Minh Nhut!  
-<img align="right" height="270px" src="https://cdn.discordapp.com/attachments/919497044110999606/1039171401652904047/unknown.png" >
+<img align="right" height="260px" src="https://cdn.discordapp.com/attachments/919497044110999606/1039171401652904047/unknown.png" >
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g874jt5kq2wxd3kljeer1es8n&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
