@@ -15,8 +15,8 @@ src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e
           
 ## 📈 Github Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-lemon-nine.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats-lemon-nine.vercel.app/api/top-langs/?username=mnhwt0108&theme=tokyonight&layout=compact&langs_count=6">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnhwt0108&theme=tokyonight&layout=compact&langs_count=6">
 </div>
 
   
