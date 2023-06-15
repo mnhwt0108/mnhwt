@@ -6,7 +6,7 @@
 👨🏻‍💻 My name is Minh Nhut and I'm studying 🖥️Computer Science at IU-VNU class of 2024. I'm from Vietnam and my goal is to become a software engineer.
 Here's my [portfolio](https://mnhwt0108.github.io/portfolio/).
 
-<a href=https://www.facebook.com/mnnhwt/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a> <a href=https://www.instagram.com/m.nhwt/> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> 
+<a href=mailto:dmnhwt@gmail.com> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a><a href=https://www.facebook.com/mnnhwt/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a> <a href=https://www.instagram.com/m.nhwt/> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> 
 
 ## 🔨 Languages & Frameworks
  
