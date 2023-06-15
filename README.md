@@ -15,7 +15,7 @@ Checkout my portfolio [here.](https://mnhwt0108.github.io/portfolio/)
           
 ## 📈 Github Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnhwt0108&theme=tokyonight&show_icons=true&count_private=true&rank_icon=github">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnhwt0108&theme=tokyonight&layout=compact&langs_count=6">
 </div>
 
