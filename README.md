@@ -4,9 +4,9 @@
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g874jt5kq2wxd3kljeer1es8n&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 👨🏻‍💻 My name is Minh Nhut and I'm studying 🖥️Computer Science at IU-VNU class of 2024. I'm from Vietnam and my goal is to become a software engineer.
-Here's my [portfolio](https://mnhwt0108.github.io/portfolio/).
+Here's my [portfolio](https://mnhwt0108.github.io/portfolio/) for more information.
 
-<a href=mailto:dmnhwt@gmail.com> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a><a href=https://www.facebook.com/mnnhwt/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a> <a href=https://www.instagram.com/m.nhwt/> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> 
+<a href=mailto:dmnhwt@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/minh-nhut-duong-4a459527b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href=https://www.facebook.com/mnnhwt/ target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a> <a href=https://www.instagram.com/m.nhwt/ target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> 
 
 ## 🔨 Languages & Frameworks
  
